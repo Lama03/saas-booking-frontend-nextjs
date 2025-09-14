@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+A cloud-based booking platform designed to help businesses manage appointments, clients, and resources efficiently. It offers online scheduling, automated reminders, payment integration, and real-time analytics to streamline operations and enhance customer experience.
 
 ## Getting Started
 
